@@ -17,6 +17,10 @@
   ],
   "dependencies": {
     "angular": "^1.6.9",
-    "requirejs": "^2.3.5"
+    "requirejs": "^2.3.5",
+    "angular-ui-router": "^1.0.15",
+    "angular-cookies": "^1.6.9",
+    "angular-validation": "^1.4.4",
+    "angular-animate": "^1.6.9"
   }
 }

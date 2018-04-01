@@ -38,9 +38,22 @@ url:www.gulpjs.com.cn
 cnpm i -g gulp
 npm init
 cnpm i --save-dev gulp
-cnpm i --save-dev gulp-clean gulp-concat gulp-connect gulp-cssmin gulp-imagemin gulp-less gulp-load-plugins gul
-p-plumber gulp-uglify open
+cnpm i --save-dev gulp-clean gulp-concat gulp-connect gulp-cssmin gulp-imagemin gulp-less gulp-load-plugins gulp-plumber gulp-uglify open
 
 gulpfile.js
 
-gulp
+gulp serve
+
+
+
+路由
+bower install --save ui-router
+
+bower install --save angular-cookies
+//bower install --save angular-cookies#1.5
+
+cnpm i --save-dev gulp-plumber
+
+bower install --save angular-validation//表单校验
+
+bower install --save angular-animate//动画效果
